@@ -5,3 +5,4 @@
 .hero-artwork[data-astro-cid-6ioknxwj]{object-position:100% center}
 
 .skip-link{position:fixed;z-index:1000;top:12px;left:var(--mt-gutter);display:inline-flex;min-height:44px;align-items:center;padding:10px 16px;transform:translateY(calc(-100% - 16px));border-radius:8px;background:var(--mt-text);color:#fff;font-size:14px;font-weight:600;text-decoration:none}.skip-link:focus{transform:translateY(0)}@media(prefers-reduced-motion:reduce){*,*::before,*::after{scroll-behavior:auto!important;animation:none!important;transition:none!important}html.has-reveal [data-reveal]{opacity:1!important;transform:none!important;filter:none!important}}
+@media (min-width:761px){.site-header[data-astro-cid-6ioknxwj]{width:calc(100% + var(--mt-gutter));margin-right:calc(var(--mt-gutter)*-1)}}
